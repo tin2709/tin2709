@@ -1,5 +1,11 @@
-# MyPorfolio
+## Xin chào, mình là Phạm Trung Tín
+💬 Hiện tại đang là sinh viên công nghệ thông tin trường đại học **Nông lâm thành phố Hồ Chí Minh**.
 
+💬 Đây là trang github cá nhân của mình, dùng để lưu trữ lại các kiến thức trong quá trình học tại trường cũng như các dự án mà mình đang làm.
+
+💬 Hiện tại, định hướng của mình là **BackEnd Developer**, công nghệ đang sử dụng là **SpringBoot**, kiến trúc sẽ tìm hiểu trong tương lai là **Microservices**.
+
+📫 Bạn có thể kết nối với mình qua:
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/trungtin.pham.33821?locale=vi_VN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ph%E1%BA%A1m-trung-t%C3%ADn-820478333/) 
 
