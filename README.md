@@ -18,4 +18,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tin2709&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/tin2709/tin2709/blob/output/github-snake-dark.svg)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tin2709&bg_color=212121&color=5e4c9e&line=4c7b9e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
