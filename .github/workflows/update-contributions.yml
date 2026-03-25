@@ -1,0 +1,26 @@
+name: Update Contributions SVG
+on:
+  schedule:
+    - cron: "0 0 * * *" # Chạy hàng ngày
+  workflow_dispatch: # Cho phép chạy thủ công
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm install
+      - name: Update SVG
+        run: node src/index.js tin2709  # Thay tin2709 bằng username của bạn
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add contributions.svg
+          git commit -m "Update contributions SVG" || exit 0
+          git push
